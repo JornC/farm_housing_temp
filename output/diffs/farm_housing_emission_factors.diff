@@ -1,0 +1,11 @@
+--- farm_housing_emission_factors_20260310.txt
++++ farm_housing_emission_factors_20260612_PRELIMINARY_UNVALIDATED.txt
+@@ -32,7 +32,7 @@
+ 31	17	9.1
+ 32	17	7.1
+ 33	17	9
+-34	17	8.3
++34	17	8
+ 35	17	6
+ 36	17	6.4
+ 37	17	8.9

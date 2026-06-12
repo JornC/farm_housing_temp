@@ -1,0 +1,96 @@
+RAPPORT extractie Bijlage V en VI Omgevingsregeling (BWBR0045528)
+
+VOORLOPIG EN NIET GEVALIDEERD: gemaakt zonder inhoudelijke
+domeinkennis, puur op basis van de gepubliceerde wettekst, in
+afwachting van de formele datalevering.
+
+Bron Bijlage V : bron-wettekst/BWBR0045528_BijlageV-geldend_van_29-05-2026_tm_heden_zichtdatum_12-06-2026.txt
+Bron Bijlage VI: bron-wettekst/BWBR0045528_BijlageVI-geldend_van_29-05-2026_tm_heden_zichtdatum_12-06-2026.txt
+Referentie     : dbdata-levering 20260310
+
+Bijlage V : 233 huisvestingssystemen, 36 diercategorieen
+Bijlage VI: 47 aanvullende technieken (84 tabelrijen, 3160 techniek-stalsysteem-paren)
+
+==============================================================================
+farm_animal_categories: 36 rijen (vorige levering 36)
+==============================================================================
+nieuw: geen  vervallen: geen
+  ~ HA2 description:
+      oud : Vrouwelijk jongvee jonger dan 2 jaar, fokstieren jonger dan 2 jaar
+      nieuw: Vrouwelijk jongvee jonger dan 2 jaar, diercategorie fokstieren jonger dan 2 jaar
+  ~ HD5 description:
+      oud : Vleesvarkens van 25 kg en meer, opfokberen van 25 kg en meer en jonger dan 7 maanden, opfokzeugen van 25 kg en meer
+      nieuw: Vleesvarkens van 25 kg en meer, diercategorie opfokberen van 25 kg en meer en jonger dan 7 maanden diercategorie opfokzeugen van 25 kg en meer
+  ~ HE2 description:
+      oud : Legkippen van 18 weken en ouder, ouderdieren van legkippen van 18 weken en ouder
+      nieuw: Legkippen van 18 weken en ouder, diercategorie ouderdieren van legkippen van 18 weken en ouder
+
+==============================================================================
+farm_animal_housing_categories: 233 rijen (vorige levering 233)
+==============================================================================
+nieuw: geen  vervallen: geen
+inhoudelijk gewijzigd (3):
+  ~ HA1.34 description:
+      oud : Ligboxenstal met vlakke vloer met rubber sleufvloer, vlakke langssleuven en geprofileerd rubber (hellende V-vorm), groeven en nopjes tussen de langssleuven met vingermestschuif waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of waarvoor tussen 1 januari 2024 en 26 april 2024 een omgevingsvergunning voor een milieubelastende activiteit is verleend, of, als een vergunning niet nodig was, die rechtmatig in gebruik is genomen voor 26 april 2024
+      nieuw: Ligboxenstal met vlakke vloer voorzien van rubberen sleufvloer, met vlakke langssleuven en geprofileerd rubber (hellende V-vorm), met groeven en nopjes tussen de langssleuven met vingermestschuif
+  ~ HD3.10 description:
+      oud : Hok met kelders met water- en mestkanaal, vloervoedering, mestkanaal met metalen driekant roostervloer met mestspleet, mest- en watergoot met schuine puntwanden, koelsysteem en watervul- en spoelsysteem in mestgoot, dagelijkse mestafvoer en een emitterend mestoppervlakte van ten hoogste 0,3 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2023
+      nieuw: Hok met kelders met water- en mestkanaal, vloervoedering, mestkanaal met metalen driekant roostervloer met mestspleet, mest- en watergoot met schuine puntwanden, koelsysteem en watervul- en spoelsysteem in mestgoot, dagelijkse mestafvoer en een emitterend mestoppervlakte van ten hoogste 0,3 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2024
+  ~ HD5.14 description:
+      oud : Hok met mestkelders met water- en mestkanaal, voerbak en watervoorziening boven het waterkanaal, mestkanaal met metalen driekant roostervloer, mestgoot met schuine putwanden, koelsysteem en watervul- en spoelsysteem, dagelijkse mestafvoer en een emitterende mestoppervlakte van ten hoogste 0,08 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2023
+      nieuw: Hok met mestkelders met water- en mestkanaal, voerbak en watervoorziening boven het waterkanaal, mestkanaal met metalen driekant roostervloer, mestgoot met schuine putwanden, koelsysteem en watervul- en spoelsysteem, dagelijkse mestafvoer en een emitterende mestoppervlakte van ten hoogste 0,08 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2024
+alleen cosmetisch (interpunctie/leestekens, 11):
+  ~ HD1.6.2: 'Emitterende mestoppervlakte 0,07-0,10 m2 per dierplaats in groepen tot 30 dieren' -> 'Emitterende mestoppervlakte 0,07–0,10 m2 per dierplaats in groepen tot 30 dieren'
+  ~ HD1.6.3: 'Emitterende mestoppervlakte 0,07-0,10 m2 per dierplaats in groepen vanaf 30 dieren zonder spoelgoten' -> 'Emitterende mestoppervlakte 0,07–0,10 m2 per dierplaats in groepen vanaf 30 dieren zonder spoelgoten'
+  ~ HD1.6.4: 'Emitterende mestoppervlakte 0,07-0,10 m2 per dierplaats in groepen vanaf 30 dieren met spoelgoten' -> 'Emitterende mestoppervlakte 0,07–0,10 m2 per dierplaats in groepen vanaf 30 dieren met spoelgoten'
+  ~ HD5.9.1.3: 'Emitterende mestoppervlakte 0,18-0,27 m2 per dierplaats met spoelgoten' -> 'Emitterende mestoppervlakte 0,18–0,27 m2 per dierplaats met spoelgoten'
+  ~ HD5.9.1.4: 'Emitterende mestoppervlakte 0,18-0,27 m2 per dierplaats zonder spoelgoten' -> 'Emitterende mestoppervlakte 0,18–0,27 m2 per dierplaats zonder spoelgoten'
+  ~ HD5.9.2.2: 'Emitterende mestoppervlakte 0,18-0,27 m2 per dierplaats' -> 'Emitterende mestoppervlakte 0,18–0,27 m2 per dierplaats'
+  ~ HD5.10.2.2: 'Emitterende mestoppervlakte 0,6-0,8 m2 per dierplaats' -> 'Emitterende mestoppervlakte 0,6–0,8 m2 per dierplaats'
+  ~ HE1.3.2: '65-70% rooster en mestbandbeluchting 0,3 m3/uur per dierplaats' -> '65–70% rooster en mestbandbeluchting 0,3 m3/uur per dierplaats'
+  ~ HE1.3.4: '30-35% rooster en mestbandbeluchting 0,4 m3/uur per dierplaats' -> '30–35% rooster en mestbandbeluchting 0,4 m3/uur per dierplaats'
+  ~ HE2.3.3: '30-35% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats' -> '30–35% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats'
+  ~ HE2.3.4: '55-60% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats' -> '55–60% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats'
+
+==============================================================================
+farm_housing_emission_factors: 233 rijen (vorige levering 233)
+==============================================================================
+nieuw: geen  vervallen: geen
+GEWIJZIGDE EMISSIEFACTOREN (1):
+  ~ HA1.34 (id 34): 8.3 -> 8
+
+==============================================================================
+farm_additional_housing_systems: 47 rijen (vorige levering 47)
+==============================================================================
+nieuw: geen  vervallen: geen
+inhoudelijk gewijzigd (0):
+alleen cosmetisch (interpunctie/leestekens, 1):
+  ~ AP100.4: 'Warmtewisselaar; 1-95% reductie PM10' -> 'Warmtewisselaar; 1–95% reductie PM10'
+
+==============================================================================
+farm_additional_housing_factors: 3160 rijen (vorige levering 3160)
+==============================================================================
+nieuwe paren (0): geen
+vervallen paren (0): geen
+GEWIJZIGDE REDUCTIEFACTOREN (0):
+  geen
+
+==============================================================================
+farm_housing_categories_additional_systems: 3160 rijen (vorige levering 3160)
+==============================================================================
+nieuwe paren (0): geen
+vervallen paren (0): geen
+
+==============================================================================
+AMBIGUE WOORDAFBREKINGEN in de tekst-export (2)
+==============================================================================
+(regel vulde de kolom exact; 'woord afgebroken' en 'twee
+ woorden' zijn beide mogelijk; controleer waar niet beslecht)
+  ? BWBR0045528_BijlageV-geldend_van_29-05-2026_tm_heden_zichtdatum_12-06-2026.txt rij HE1.100:
+      met spatie   : ...Overige huisvestingssystemen (niet-batterijhuisvesti ng)
+      zonder spatie: ...Overige huisvestingssystemen (niet-batterijhuisvesting)
+      beslecht     : zonder spatie (gelijk aan vorige levering)
+  ? BWBR0045528_BijlageVI-geldend_van_29-05-2026_tm_heden_zichtdatum_12-06-2026.txt rij AP100.3:
+      met spatie   : ...Luchtconditioneringsuni t
+      zonder spatie: ...Luchtconditioneringsunit
+      beslecht     : zonder spatie (gelijk aan vorige levering)

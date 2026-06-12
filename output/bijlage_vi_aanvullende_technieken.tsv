@@ -1,0 +1,85 @@
+code	omschrijving	nummer_systeembeschrijving	toepasbaar_bij	reductie_ammoniak	reductie_geur	reductie_fijnstof	voldoen_ook_aan_nummer	subgroep_code	subgroep_omschrijving	groep_code	groep_omschrijving
+LW1.1	Biologisch luchtwassysteem	OW 2006.02.V1, OW 2007.03.V1, OW 2010.27.V1, OW 2011.11.V1, OW 2013.02.V1	HA3, HD, HE, HF, HG, HH1, HH2.1	70%	45%	75%		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.1	Biologisch luchtwassysteem	OW 2006.02.V1, OW 2007.03.V1, OW 2010.27.V1, OW 2011.11.V1, OW 2013.02.V1	HC	67%	43%	71%	OW 2017.07	LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.1	Biologisch luchtwassysteem	OW 2006.02.V1, OW 2007.03.V1, OW 2010.27.V1, OW 2011.11.V1, OW 2013.02.V1	HK	70%	-	-		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.2	Biologisch luchtwassysteem	OW 2008.05.V1, OW 2011.12.V1	HA3, HD	70%	45%	75%		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.2	Biologisch luchtwassysteem	OW 2008.05.V1, OW 2011.12.V1	HC	67%	43%	71%	OW 2017.07	LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.3	Biologisch luchtwassysteem	OW 2004.01.V1, OW 2008.01.V1, OW 2008.02.V1, OW 2008.03.V1, OW 2008.04.V1, OW 2008.12.V1, OW 2009.20.V1, OW 2009.21.V1	HA3, HD	70%	45%	60%		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.3	Biologisch luchtwassysteem	OW 2004.01.V1, OW 2008.01.V1, OW 2008.02.V1, OW 2008.03.V1, OW 2008.04.V1, OW 2008.12.V1, OW 2009.20.V1, OW 2009.21.V1	HC	67%	43%	57%	OW 2017.07	LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.4	Biologisch luchtwassysteem	OW 2009.13.V1, OW 2010.28.V1, OW 2015.04.V1	HA3, HD, HE, HF, HG, HH1, HH2.1	70%	45%	60%		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.4	Biologisch luchtwassysteem	OW 2009.13.V1, OW 2010.28.V1, OW 2015.04.V1	HC	67%	43%	57%	OW 2017.07	LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.4	Biologisch luchtwassysteem	OW 2009.13.V1, OW 2010.28.V1, OW 2015.04.V1	HK	70%	-	-		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.5	Biologisch luchtwassysteem	OW 2012.07.V1	HA3, HD	85%	45%	60%		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.5	Biologisch luchtwassysteem	OW 2012.07.V1	HC	81%	43%	57%	OW 2017.07	LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.6	Biofilter	OW 2011.03.V1	HE, HF, HG, HH1, HH2.1	70%	45%	80%		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW1.7	Biofilter waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of waarvoor tussen 1 januari 2024 en 20 juli 2025 een omgevingsvergunning voor een milieubelastende activiteit is verleend, of, als een vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 20 juli 2025.	OW 2020.06.V1	HD	70%	45%	80%		LW1	Enkelvoudige biologische luchtwassystemen	LW	Luchtwassystemen
+LW2.1	Chemisch luchtwassysteem	OW 2001.31.V1, OW 2007.06.V1	HE1.1.2.1	90%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.2	Chemisch luchtwassysteem	OW 2001.32.V1, OW 2007.07.V1	HE1.1.2.2	90%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.3	Chemisch luchtwassysteem	OW 2004.02.V1, OW 2006.04.V1, OW 2006.05.V1, OW 2008.07.V1, OW 2009.01.V1, OW 2010.25.V1, OW 2011.14.V1	HA3, HD	70%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.3	Chemisch luchtwassysteem	OW 2004.02.V1, OW 2006.04.V1, OW 2006.05.V1, OW 2008.07.V1, OW 2009.01.V1, OW 2010.25.V1, OW 2011.14.V1	HC	67%	29%	33%	OW 2017.07	LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.4	Chemisch luchtwassysteem	OW 2005.01.V1, OW 2008.06.V1, OW 2014.01.V1	HA3, HD, HE, HF, HG, HH1, HH2.1	70%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.4	Chemisch luchtwassysteem	OW 2005.01.V1, OW 2008.06.V1, OW 2014.01.V1	HC	67%	29%	33%	OW 2017.07	LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.4	Chemisch luchtwassysteem	OW 2005.01.V1, OW 2008.06.V1, OW 2014.01.V1	HK	70%	-	-		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.5	Chemisch luchtwassysteem	OW 2007.05.V1	HA3, HD	95%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.5	Chemisch luchtwassysteem	OW 2007.05.V1	HC	90%	29%	33%	OW 2017.07	LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.5	Chemisch luchtwassysteem	OW 2007.05.V1	HE1, HF, HG, HH1, HH2.1	90%	40%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.5	Chemisch luchtwassysteem	OW 2007.05.V1	HK	90%	-	-		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.6	Chemisch luchtwassysteem	OW 2008.08.V1	HA3, HD	95%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.6	Chemisch luchtwassysteem	OW 2008.08.V1	HC	90%	29%	33%	OW 2017.07	LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.6	Chemisch luchtwassysteem	OW 2008.08.V1	HE1, HF, HG, HH1, HH2.1	90%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.6	Chemisch luchtwassysteem	OW 2008.08.V1	HK	90%	-	-		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.7	Chemisch luchtwassysteem	OW 2008.09.V1, OW 2010.26.V1	HA3, HD	95%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.7	Chemisch luchtwassysteem	OW 2008.09.V1, OW 2010.26.V1	HC	90%	29%	33%	OW 2017.07	LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.8	Chemisch luchtwassysteem	OW 2013.08.V1	HA3, HD, HE, HF, HG, HH1, HH2.1	90%	30%	35%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.8	Chemisch luchtwassysteem	OW 2013.08.V1	HC	86%	29%	33%	OW 2017.07	LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.8	Chemisch luchtwassysteem	OW 2013.08.V1	HK	90%	-	-		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.9	Chemisch luchtwassysteem	OW 2021.03.V1	HE1, HE2, HE3, HE4, HG1, HG2, HG3, HH1	70%	30%	70%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW2.10	Chemisch luchtwassysteem	OW 2021.04.V1	HE5, HF1, HG4, HH2.1	70%	30%	70%		LW2	Enkelvoudige chemische luchtwassystemen	LW	Luchtwassystemen
+LW3.1	Water luchtwassysteem	OW 2009.19.V1	HE1, HE2, HE3, HE4, HE5, HF1, HG1, HG2, HG3, HG4, HH1, HH2.1	0%	0%	33%		LW3	Water luchtwassystemen	LW	Luchtwassystemen
+LW4.1	Biologische luchtwassysteem met watergordijn	OW 2007.02.V1, OW 2009.12.V1, OW 2010.02.V1	HA3, HD	85%	45%	80%		LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.1	Biologische luchtwassysteem met watergordijn	OW 2007.02.V1, OW 2009.12.V1, OW 2010.02.V1	HC	81%	43%	76%	OW 2017.07.V1	LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.2	Biologisch en water luchtwassysteem met geurverwijderingssectie	OW 2011.07.V1	HA3, HD	85%	45%	80%		LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.2	Biologisch en water luchtwassysteem met geurverwijderingssectie	OW 2011.07.V1	HC	81%	43%	76%	OW 2017.07.V1	LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.3	Biologisch en chemisch luchtwassysteem met biofilter	OW 2011.08.V1	HA3, HD	90%	45%	80%		LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.3	Biologisch en chemisch luchtwassysteem met biofilter	OW 2011.08.V1	HC	86%	43%	76%	OW 2017.07.V1	LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.4	Chemisch luchtwassysteem (lamellenfilter) en water luchtwassysteem	OW 2006.14.V1	HA3, HD	85%	30%	80%		LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.4	Chemisch luchtwassysteem (lamellenfilter) en water luchtwassysteem	OW 2006.14.V1	HC	81%	29%	76%	OW 2017.07.V1	LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.5	Chemisch en water luchtwassysteem met biofilter	OW 2006.15.V1	HA3, HD	70%	30%	80%		LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.5	Chemisch en water luchtwassysteem met biofilter	OW 2006.15.V1	HC	67%	29%	76%	OW 2017.07.V1	LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.6	Chemisch en water luchtwassysteem met biofilter	OW 2007.01.V1	HA3, HD	85%	30%	80%		LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+LW4.6	Chemisch en water luchtwassysteem met biofilter	OW 2007.01.V1	HC	81%	29%	76%	OW 2017.07.V1	LW4	Meervoudige luchtwassystemen	LW	Luchtwassystemen
+AR1.1	Beweiden		HA1	0%	0%	20%		AR1	Beweiden	AR	Aanvullende technieken rundvee
+AV1.1	Schuine wanden in mestkanaal	OW 2016.01.V1	HD1.100	40%	0%	0%		AV1	Schuine wanden in mestkanaal	AV	Aanvullende technieken varkens
+AV1.2	Schuine wanden in mestkanaal	OW 2016.02.V1	HD2.100, HD5.100	15%	0%	0%		AV1	Schuine wanden in mestkanaal	AV	Aanvullende technieken varkens
+AV1.3	Schuine wanden in mestkanaal	OW 2016.03.V1	HD3.100, HD3.101	20%	0%	0%		AV1	Schuine wanden in mestkanaal	AV	Aanvullende technieken varkens
+AV100.1	Drijvende ballen in mest	OW 2010.01.V1	HD	29%	0%	0%		AV100	Overige technieken varkens	AV	Aanvullende technieken varkens
+AP1.1	Oliefilm met drukleidingen	OW 2009.17.V1	HE3, HE5, HF1, HG4	0%	0%	54%		AP1	Oliefilm	AP	Aanvullende technieken pluimvee
+AP1.2	Oliefilm met sproeikoppen	OW 2015.01.V1	HE1.3, HE2.3, HE4.2	0%	0%	15%		AP1	Oliefilm	AP	Aanvullende technieken pluimvee
+AP1.3	Oliefilm met robot	OW 2015.02.V1	HE1.2.1, HE1.100, HE2.2, HE2.100, HE4.3, HE4.4, HE4.5, HE4.100	0%	0%	30%		AP1	Oliefilm	AP	Aanvullende technieken pluimvee
+AP2.1	Ionisatie met negatieve coronadraden	OW 2009.18.V1	HE5.1, HE5.2, HE5.3, HE5.4, HE5.5, HE5.7, HE5.8, HE5.9, HE5.10, HE5.100	0%	0%	49%		AP2	Ionisatie	AP	Aanvullende technieken pluimvee
+AP2.2	Ionisatiefilter	OW 2011.01.V1	HE1, HE2, HE3, HE4, HE5, HF1, HG1, HG2, HG3, HG4, HH1, HH2.1	0%	0%	57%		AP2	Ionisatie	AP	Aanvullende technieken pluimvee
+AP2.3	Ionisatie met koolstofborsteltjes	OW 2020.03.V1	HE, HF, HG	0%	0%	31%		AP2	Ionisatie	AP	Aanvullende technieken pluimvee
+AP2.4	Ionisatie met negatieve coronadraden (prikkeldraad)	OW 2020.04.V1	HE5.1, HE5.2, HE5.3, HE5.4, HE5.5, HE5.7, HE5.8, HE5.9, HE5.10, HE5.100	0%	0%	52%		AP2	Ionisatie	AP	Aanvullende technieken pluimvee
+AP2.5	Ionisatie-units met ingebouwde coronadraden en ingebouwd collectoroppervlak	OW 2020.05.V1	HE5.1, HE5.2, HE5.3, HE5.4, HE5.5, HE5.7, HE5.8, HE5.9, HE5.10, HE5.100	0%	0%	16%		AP2	Ionisatie	AP	Aanvullende technieken pluimvee
+AP3.1	Droogtunnel met geperforeerde banden	OW 2005.06.V1	HE1, HE2	0%	0%	30%		AP3	Mestdrogen	AP	Aanvullende technieken pluimvee
+AP3.2	Droogtunnel met geperforeerde metalen platen	OW 2007.09.V1	HE1, HE2	0%	0%	55%		AP3	Mestdrogen	AP	Aanvullende technieken pluimvee
+AP3.3	Mestdroogsysteem met geperforeerde doek	OW 2001.36.V1	HE1, HE2, HE4, HE5	0%	0%	55%		AP3	Mestdrogen	AP	Aanvullende technieken pluimvee
+AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen	OW 2009.02.V1	HE5.4	10%	10%	10%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen	OW 2009.03.V1	HE5.5	10%	10%	10%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen	OW 2009.04.V1	HE5.6	10%	10%	10%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen	OW 2009.15.V1	HE5.7	10%	10%	10%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen	OW 2017.08.V1	HE5.8	10%	10%	10%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen	OW 2017.09.V1	HE5.10	0%	10%	10%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen	OW 2009.08.V1	HE5.100	10%	10%	10%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen	OW 2009.05.V1	HE5.4	15%	20%	23%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen	OW 2009.06.V1	HE5.5	10%	20%	23%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen	OW 2009.07.V1	HE5.6	25%	20%	23%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen	OW 2009.16.V1	HE5.7	15%	20%	23%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen	OW 2017.10.V1	HE5.8	10%	20%	23%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen	OW 2017.11.V1	HE5.10	0%	20%	23%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen	OW 2009.09.V1	HE5.100	25%	20%	23%		AP4	Uitbroeden eieren en opfokken vleeskuikens	AP	Aanvullende technieken pluimvee
+AP100.1	Droogfilterwand	OW 2010.29.V1	HE, HF, HG, HH1, HH2.1	0%	0%	40%		AP100	Overige technieken pluimvee	AP	Aanvullende technieken pluimvee
+AP100.2	Strooiselschuif	OW 2017.02.V1	HE2.3	20%	0%	20%		AP100	Overige technieken pluimvee	AP	Aanvullende technieken pluimvee
+AP100.3	Luchtconditioneringsunit	OW 2020.01.V1	HE, HF, HG, HH1, HH2.1	0%	0%	80%		AP100	Overige technieken pluimvee	AP	Aanvullende technieken pluimvee
+AP100.4	Warmtewisselaar; 1–95% reductie PM10	OW 2021.01.V1	HE, HF, HG, HH1, HH2.1	0%	0%	1–95%		AP100	Overige technieken pluimvee	AP	Aanvullende technieken pluimvee
+AP100.5	Stoffilter met 99% verwijdering PM10	OW 2021.02.V1	HE, HF, HG, HH1, HH2.1	0%	0%	1–95%		AP100	Overige technieken pluimvee	AP	Aanvullende technieken pluimvee

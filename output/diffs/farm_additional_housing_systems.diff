@@ -1,0 +1,11 @@
+--- farm_additional_housing_systems_20260310.txt
++++ farm_additional_housing_systems_20260612_PRELIMINARY_UNVALIDATED.txt
+@@ -15,7 +15,7 @@
+ 14	AP100.1	AP100.1	Droogfilterwand	f
+ 15	AP100.2	AP100.2	Strooiselschuif	f
+ 16	AP100.3	AP100.3	Luchtconditioneringsunit	f
+-17	AP100.4	AP100.4	Warmtewisselaar; 1-95% reductie PM10	f
++17	AP100.4	AP100.4	Warmtewisselaar; 1–95% reductie PM10	f
+ 18	AP100.5	AP100.5	Stoffilter met 99% verwijdering PM10	f
+ 19	AR1.1	AR1.1	Beweiden	f
+ 20	AV1.1	AV1.1	Schuine wanden in mestkanaal	f

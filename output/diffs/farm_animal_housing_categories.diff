@@ -1,0 +1,83 @@
+--- farm_animal_housing_categories_20260310.txt
++++ farm_animal_housing_categories_20260612_PRELIMINARY_UNVALIDATED.txt
+@@ -32,7 +32,7 @@
+ 31	1	HA1.31	HA1.31	Ligboxenstal met vlakke betonnen vloerplaten met sleuven, voorzien van profiel met 1% hellende groeven richting een centrale giergoot met giergaten en mestverwijdering waarvoor voor 1 december 2022 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, of, als deze vergunning niet nodig was, die rechtmatig in gebruik is genomen voor die datum	per_animal_per_year
+ 32	1	HA1.32	HA1.32	Ligboxenstal met geprofileerde rubber oplegsleufvloer met hellende sleuven met gierafvoergaatjes waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, of, als deze vergunning niet nodig was, die rechtmatig in gebruik is genomen voor die datum	per_animal_per_year
+ 33	1	HA1.33	HA1.33	Ligboxenstal met dichte geprofileerde vloer met rubbermatten en composietnokken met hellend profiel waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, of, als deze vergunning niet nodig was, die rechtmatig in gebruik is genomen voor die datum	per_animal_per_year
+-34	1	HA1.34	HA1.34	Ligboxenstal met vlakke vloer met rubber sleufvloer, vlakke langssleuven en geprofileerd rubber (hellende V-vorm), groeven en nopjes tussen de langssleuven met vingermestschuif waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of waarvoor tussen 1 januari 2024 en 26 april 2024 een omgevingsvergunning voor een milieubelastende activiteit is verleend, of, als een vergunning niet nodig was, die rechtmatig in gebruik is genomen voor 26 april 2024	per_animal_per_year
++34	1	HA1.34	HA1.34	Ligboxenstal met vlakke vloer voorzien van rubberen sleufvloer, met vlakke langssleuven en geprofileerd rubber (hellende V-vorm), met groeven en nopjes tussen de langssleuven met vingermestschuif	per_animal_per_year
+ 35	1	HA1.35	HA1.35	Ligboxenstal met urineopvangstation	per_animal_per_year
+ 36	1	HA1.36	HA1.36	Ligboxenstal met een indrukbare drainerende loopvloer voorzien van een mestschuif, waarbij de urine en mest direct worden gescheiden en apart worden opgeslagen, waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of waarvoor tussen 1 januari 2024 en 2 oktober 2024 een omgevingsvergunning voor een milieubelastende activiteit is verleend, of, als een vergunning niet nodig was, die rechtmatig in gebruik is genomen voor 2 oktober 2024	per_animal_per_year
+ 37	1	HA1.37	HA1.37	Ligboxenstal voorzien van geprofileerde rubberen oplegmatten met ruitprofiel onder 2% afschot naar een centrale giergoot en frequente mestverwijdering met vaste mestschuif, waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of waarvoor tussen 1 januari 2024 en 2 oktober 2024 een omgevingsvergunning voor een milieubelastende activiteit is verleend, of, als een vergunning niet nodig was, die rechtmatig in gebruik is genomen voor 2 oktober 2024	per_animal_per_year
+@@ -58,9 +58,9 @@
+ 57	11	HD1.5.1	HD1.5.1	Oppervlakte mestkanaal ten hoogste 0,13 m2 per dierplaats	per_animal_per_year
+ 58	11	HD1.5.2	HD1.5.2	Oppervlakte mestkanaal ten hoogste 0,19 m2 per dierplaats	per_animal_per_year
+ 59	11	HD1.6.1	HD1.6.1	Emitterende mestoppervlakte ten hoogste 0,07 m2 per dierplaats, ongeacht groepsgrootte	per_animal_per_year
+-60	11	HD1.6.2	HD1.6.2	Emitterende mestoppervlakte 0,07-0,10 m2 per dierplaats in groepen tot 30 dieren	per_animal_per_year
+-61	11	HD1.6.3	HD1.6.3	Emitterende mestoppervlakte 0,07-0,10 m2 per dierplaats in groepen vanaf 30 dieren zonder spoelgoten	per_animal_per_year
+-62	11	HD1.6.4	HD1.6.4	Emitterende mestoppervlakte 0,07-0,10 m2 per dierplaats in groepen vanaf 30 dieren met spoelgoten	per_animal_per_year
++60	11	HD1.6.2	HD1.6.2	Emitterende mestoppervlakte 0,07–0,10 m2 per dierplaats in groepen tot 30 dieren	per_animal_per_year
++61	11	HD1.6.3	HD1.6.3	Emitterende mestoppervlakte 0,07–0,10 m2 per dierplaats in groepen vanaf 30 dieren zonder spoelgoten	per_animal_per_year
++62	11	HD1.6.4	HD1.6.4	Emitterende mestoppervlakte 0,07–0,10 m2 per dierplaats in groepen vanaf 30 dieren met spoelgoten	per_animal_per_year
+ 63	11	HD1.7	HD1.7	Gedeeltelijk rooster met verkleinde mestoppervlakte	per_animal_per_year
+ 64	11	HD1.8	HD1.8	Mestopvang in water met mestafvoersysteem	per_animal_per_year
+ 65	11	HD1.9	HD1.9	Volledig rooster met water- en mestkanaal	per_animal_per_year
+@@ -95,7 +95,7 @@
+ 94	13	HD3.8.1	HD3.8.1	Met metalen driekantrooster	per_animal_per_year
+ 95	13	HD3.8.2	HD3.8.2	Met anders dan metalen driekantrooster	per_animal_per_year
+ 96	13	HD3.9	HD3.9	Rondloopstal met voerstation en strobed	per_animal_per_year
+-97	13	HD3.10	HD3.10	Hok met kelders met water- en mestkanaal, vloervoedering, mestkanaal met metalen driekant roostervloer met mestspleet, mest- en watergoot met schuine puntwanden, koelsysteem en watervul- en spoelsysteem in mestgoot, dagelijkse mestafvoer en een emitterend mestoppervlakte van ten hoogste 0,3 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2023	per_animal_per_year
++97	13	HD3.10	HD3.10	Hok met kelders met water- en mestkanaal, vloervoedering, mestkanaal met metalen driekant roostervloer met mestspleet, mest- en watergoot met schuine puntwanden, koelsysteem en watervul- en spoelsysteem in mestgoot, dagelijkse mestafvoer en een emitterend mestoppervlakte van ten hoogste 0,3 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2024	per_animal_per_year
+ 98	13	HD3.100	HD3.100	Overige huisvestingssystemen (groepshuisvesting)	per_animal_per_year
+ 99	13	HD3.101	HD3.101	Overige huisvestingssystemen (individuele huisvesting)	per_animal_per_year
+ 100	14	HD4.100	HD4.100	Overige huisvestingssystemen	per_animal_per_year
+@@ -109,20 +109,20 @@
+ 108	15	HD5.8	HD5.8	Water- en mestkanaal	per_animal_per_year
+ 109	15	HD5.9.1.1	HD5.9.1.1	Emitterende mestoppervlakte ten hoogste 0,18 m2 per dierplaats met spoelgoten	per_animal_per_year
+ 110	15	HD5.9.1.2	HD5.9.1.2	Emitterende mestoppervlakte ten hoogste 0,18 m2 per dierplaats zonder spoelgoten	per_animal_per_year
+-111	15	HD5.9.1.3	HD5.9.1.3	Emitterende mestoppervlakte 0,18-0,27 m2 per dierplaats met spoelgoten	per_animal_per_year
+-112	15	HD5.9.1.4	HD5.9.1.4	Emitterende mestoppervlakte 0,18-0,27 m2 per dierplaats zonder spoelgoten	per_animal_per_year
++111	15	HD5.9.1.3	HD5.9.1.3	Emitterende mestoppervlakte 0,18–0,27 m2 per dierplaats met spoelgoten	per_animal_per_year
++112	15	HD5.9.1.4	HD5.9.1.4	Emitterende mestoppervlakte 0,18–0,27 m2 per dierplaats zonder spoelgoten	per_animal_per_year
+ 113	15	HD5.9.2.1	HD5.9.2.1	Emitterende mestoppervlakte ten hoogste 0,18 m2 per dierplaats	per_animal_per_year
+-114	15	HD5.9.2.2	HD5.9.2.2	Emitterende mestoppervlakte 0,18-0,27 m2 per dierplaats	per_animal_per_year
++114	15	HD5.9.2.2	HD5.9.2.2	Emitterende mestoppervlakte 0,18–0,27 m2 per dierplaats	per_animal_per_year
+ 115	15	HD5.10.1.1	HD5.10.1.1	Emitterende mestoppervlakte ten hoogste 0,5 m2 per dierplaats	per_animal_per_year
+ 116	15	HD5.10.1.2	HD5.10.1.2	Emitterende mestoppervlakte ten hoogste 0,8 m2 per dierplaats	per_animal_per_year
+ 117	15	HD5.10.2.1	HD5.10.2.1	Emitterende mestoppervlakte ten hoogste 0,6 m2 per dierplaats	per_animal_per_year
+-118	15	HD5.10.2.2	HD5.10.2.2	Emitterende mestoppervlakte 0,6-0,8 m2 per dierplaats	per_animal_per_year
++118	15	HD5.10.2.2	HD5.10.2.2	Emitterende mestoppervlakte 0,6–0,8 m2 per dierplaats	per_animal_per_year
+ 119	15	HD5.11.1	HD5.11.1	Emitterende mestoppervlakte mestkanaal groter dan 0,5 m2, maar ten hoogste 0,67 m2 per dierplaats	per_animal_per_year
+ 120	15	HD5.11.2	HD5.11.2	Emitterende mestoppervlakte mestkanaal ten hoogste 0,5 m2 per dierplaats	per_animal_per_year
+ 121	15	HD5.12.1	HD5.12.1	Emitterende mestoppervlakte ten hoogste 0,22 m2 per dierplaats	per_animal_per_year
+ 122	15	HD5.12.2	HD5.12.2	Emitterende mestoppervlakte ten hoogste 0,33 m2 per dierplaats	per_animal_per_year
+ 123	15	HD5.13	HD5.13	Mestband in mestkanaal met metalen driekantrooster	per_animal_per_year
+-124	15	HD5.14	HD5.14	Hok met mestkelders met water- en mestkanaal, voerbak en watervoorziening boven het waterkanaal, mestkanaal met metalen driekant roostervloer, mestgoot met schuine putwanden, koelsysteem en watervul- en spoelsysteem, dagelijkse mestafvoer en een emitterende mestoppervlakte van ten hoogste 0,08 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2023	per_animal_per_year
++124	15	HD5.14	HD5.14	Hok met mestkelders met water- en mestkanaal, voerbak en watervoorziening boven het waterkanaal, mestkanaal met metalen driekant roostervloer, mestgoot met schuine putwanden, koelsysteem en watervul- en spoelsysteem, dagelijkse mestafvoer en een emitterende mestoppervlakte van ten hoogste 0,08 m2 per dierplaats waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of, als deze vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 1 januari 2024	per_animal_per_year
+ 125	15	HD5.100	HD5.100	Overige huisvestingssystemen	per_animal_per_year
+ 126	16	HE1.1.1	HE1.1.1	Batterij met mestband	per_animal_per_year
+ 127	16	HE1.1.2.1	HE1.1.2.1	Beluchting 0,2 m3/uur per dierplaats	per_animal_per_year
+@@ -137,10 +137,10 @@
+ 136	16	HE1.2.3	HE1.2.3	Verhoogde roostervloer met daarboven oplierbare en/of opklapbare roosters	per_animal_per_year
+ 137	16	HE1.2.4	HE1.2.4	Warmteheaters met luchtmengsysteem voor droging strooisellaag	per_animal_per_year
+ 138	16	HE1.3.1	HE1.3.1	Ten minste 50% rooster met mestband	per_animal_per_year
+-139	16	HE1.3.2	HE1.3.2	65-70% rooster en mestbandbeluchting 0,3 m3/uur per dierplaats	per_animal_per_year
++139	16	HE1.3.2	HE1.3.2	65–70% rooster en mestbandbeluchting 0,3 m3/uur per dierplaats	per_animal_per_year
+ 140	16	HE1.3.3.1	HE1.3.3.1	Beluchting 0,1 m3/uur per dierplaats	per_animal_per_year
+ 141	16	HE1.3.3.2	HE1.3.3.2	Beluchting 0,3 m3/uur per dierplaats	per_animal_per_year
+-142	16	HE1.3.4	HE1.3.4	30-35% rooster en mestbandbeluchting 0,4 m3/uur per dierplaats	per_animal_per_year
++142	16	HE1.3.4	HE1.3.4	30–35% rooster en mestbandbeluchting 0,4 m3/uur per dierplaats	per_animal_per_year
+ 143	16	HE1.3.5	HE1.3.5	55-60% rooster en mestbandbeluchting 0,4 m3/uur per dierplaats	per_animal_per_year
+ 144	16	HE1.100	HE1.100	Overige huisvestingssystemen (niet-batterijhuisvesting)	per_animal_per_year
+ 145	16	HE1.101	HE1.101	Overige huisvestingssystemen (batterijhuisvesting)	per_animal_per_year
+@@ -156,8 +156,8 @@
+ 155	17	HE2.3.1	HE2.3.1	Ten minste 50% rooster met mestband	per_animal_per_year
+ 156	17	HE2.3.2.1	HE2.3.2.1	Beluchting ten minste 0,2 m3/uur per dierplaats	per_animal_per_year
+ 157	17	HE2.3.2.2	HE2.3.2.2	Beluchting ten minste 0,5 m3/uur per dierplaats	per_animal_per_year
+-158	17	HE2.3.3	HE2.3.3	30-35% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats	per_animal_per_year
+-159	17	HE2.3.4	HE2.3.4	55-60% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats	per_animal_per_year
++158	17	HE2.3.3	HE2.3.3	30–35% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats	per_animal_per_year
++159	17	HE2.3.4	HE2.3.4	55–60% roosters en mestbandbeluchting 0,7 m3/uur per dierplaats	per_animal_per_year
+ 160	17	HE2.100	HE2.100	Overige huisvestingssystemen	per_animal_per_year
+ 161	18	HE3.1	HE3.1	Mixluchtventilatie	per_animal_per_year
+ 162	18	HE3.2	HE3.2	Warmteheaters en ventilatoren	per_animal_per_year

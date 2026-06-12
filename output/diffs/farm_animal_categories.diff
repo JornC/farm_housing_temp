@@ -1,0 +1,22 @@
+--- farm_animal_categories_20260310.txt
++++ farm_animal_categories_20260612_PRELIMINARY_UNVALIDATED.txt
+@@ -1,6 +1,6 @@
+ farm_animal_category_id	code	farm_animal_type	name	description
+ 1	HA1	cow	HA1	Melk- en kalfkoeien van 2 jaar en ouder (inclusief kalveren jonger dan 14 dagen)
+-2	HA2	cow	HA2	Vrouwelijk jongvee jonger dan 2 jaar, fokstieren jonger dan 2 jaar
++2	HA2	cow	HA2	Vrouwelijk jongvee jonger dan 2 jaar, diercategorie fokstieren jonger dan 2 jaar
+ 3	HA3	cow	HA3	Vleeskalveren jonger dan 1 jaar
+ 4	HA4	cow	HA4	Zoogkoeien van 2 jaar en ouder (inclusief ongespeende kalveren)
+ 5	HA5	cow	HA5	Overig vleesvee vanaf spenen en jonger dan 2 jaar
+@@ -13,9 +13,9 @@
+ 12	HD2	pig	HD2	Kraamzeugen (inclusief biggen tot spenen)
+ 13	HD3	pig	HD3	Guste en dragende zeugen
+ 14	HD4	pig	HD4	Dekberen van 7 maanden en ouder
+-15	HD5	pig	HD5	Vleesvarkens van 25 kg en meer, opfokberen van 25 kg en meer en jonger dan 7 maanden, opfokzeugen van 25 kg en meer
++15	HD5	pig	HD5	Vleesvarkens van 25 kg en meer, diercategorie opfokberen van 25 kg en meer en jonger dan 7 maanden diercategorie opfokzeugen van 25 kg en meer
+ 16	HE1	chicken	HE1	Opfokhennen en -hanen van legkippen jonger dan 18 weken
+-17	HE2	chicken	HE2	Legkippen van 18 weken en ouder, ouderdieren van legkippen van 18 weken en ouder
++17	HE2	chicken	HE2	Legkippen van 18 weken en ouder, diercategorie ouderdieren van legkippen van 18 weken en ouder
+ 18	HE3	chicken	HE3	Ouderdieren van vleeskuikens in opfok jonger dan 19 weken
+ 19	HE4	chicken	HE4	Ouderdieren van vleeskuikens van 19 weken en ouder
+ 20	HE5	chicken	HE5	Vleeskuikens

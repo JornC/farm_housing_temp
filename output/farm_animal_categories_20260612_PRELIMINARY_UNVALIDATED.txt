@@ -1,0 +1,37 @@
+farm_animal_category_id	code	farm_animal_type	name	description
+1	HA1	cow	HA1	Melk- en kalfkoeien van 2 jaar en ouder (inclusief kalveren jonger dan 14 dagen)
+2	HA2	cow	HA2	Vrouwelijk jongvee jonger dan 2 jaar, diercategorie fokstieren jonger dan 2 jaar
+3	HA3	cow	HA3	Vleeskalveren jonger dan 1 jaar
+4	HA4	cow	HA4	Zoogkoeien van 2 jaar en ouder (inclusief ongespeende kalveren)
+5	HA5	cow	HA5	Overig vleesvee vanaf spenen en jonger dan 2 jaar
+6	HA6	cow	HA6	Overig rundvee van 2 jaar en ouder
+7	HB1	sheep	HB1	Schapen van 1 jaar en ouder (inclusief lammeren)
+8	HC1	goat	HC1	Geiten van 1 jaar en ouder
+9	HC2	goat	HC2	Geiten vanaf 61 dagen tot 1 jaar
+10	HC3	goat	HC3	Geiten tot 61 dagen
+11	HD1	pig	HD1	Gespeende biggen minder dan 25 kg
+12	HD2	pig	HD2	Kraamzeugen (inclusief biggen tot spenen)
+13	HD3	pig	HD3	Guste en dragende zeugen
+14	HD4	pig	HD4	Dekberen van 7 maanden en ouder
+15	HD5	pig	HD5	Vleesvarkens van 25 kg en meer, diercategorie opfokberen van 25 kg en meer en jonger dan 7 maanden diercategorie opfokzeugen van 25 kg en meer
+16	HE1	chicken	HE1	Opfokhennen en -hanen van legkippen jonger dan 18 weken
+17	HE2	chicken	HE2	Legkippen van 18 weken en ouder, diercategorie ouderdieren van legkippen van 18 weken en ouder
+18	HE3	chicken	HE3	Ouderdieren van vleeskuikens in opfok jonger dan 19 weken
+19	HE4	chicken	HE4	Ouderdieren van vleeskuikens van 19 weken en ouder
+20	HE5	chicken	HE5	Vleeskuikens
+21	HF1	guinea_fowl	HF1	Vleesparelhoenders
+22	HG1	turkey	HG1	Ouderdieren van vleeskalkoenen jonger dan 6 weken
+23	HG2	turkey	HG2	Ouderdieren van vleeskalkoenen van 6 weken en ouder en jonger dan 30 weken
+24	HG3	turkey	HG3	Ouderdieren van vleeskalkoenen van 30 weken en ouder
+25	HG4	turkey	HG4	Vleeskalkoenen
+26	HH1	duck	HH1	Ouderdieren van vleeseenden
+27	HH2	duck	HH2	Vleeseenden
+28	HI1	ostrich	HI1	Struisvogels jonger dan 4 maanden
+29	HI2	ostrich	HI2	Struisvogels van 4 maanden en ouder en jonger dan 12 maanden
+30	HI3	ostrich	HI3	Struisvogels van 12 maanden en ouder
+31	HK1	rabbit	HK1	Voedster
+32	HK2	rabbit	HK2	Vlees- en opfokkonijnen tot dekleeftijd
+33	HL1	horse	HL1	Paarden van 3 jaar en ouder
+34	HL2	horse	HL2	Paarden jonger dan 3 jaar
+35	HL3	horse	HL3	Pony's van 3 jaar en ouder
+36	HL4	horse	HL4	Pony's jonger dan 3 jaar
